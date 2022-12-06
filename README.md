@@ -27,5 +27,7 @@ algorithms by clicking on the buttons of these sorting algorithms.
 •   Observe the swapping of bars: when a user’s apply any sorting 
     algorithms by clicking the button than these bars start sorting by 
     swapping according to their height.
+## DEMO
+   https://user-images.githubusercontent.com/78639134/205826442-36479663-57ba-472d-baf0-60f196e92052.mp4
 
 
